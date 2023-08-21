@@ -5,8 +5,8 @@
 
 ### Links
 
-- Live Site: [Ecommerce-react](https://github.com/arifulsajib/ecommerce-project-react)
-- Code: [Github](https://github.com/arifulsajib/ecommerce-project-react)
+- Live Site: [Ecommerce-react](https://github.com/21b01a1298/RedWood_ECommerce_reactjs)
+- Code: [Github](https://github.com/21b01a1298/RedWood_ECommerce_reactjs)
 
 ### Built with
 - React js
